@@ -2,7 +2,7 @@
 
 [2021 Spring] IE406 Applied Machine Learning
 
-Jeong Sujin, Youngbin Lee, Yeongho Lee
+Jeon Sujin, Youngbin Lee, Yeongho Lee
 
 ## :triangular_flag_on_post: Project info
 
